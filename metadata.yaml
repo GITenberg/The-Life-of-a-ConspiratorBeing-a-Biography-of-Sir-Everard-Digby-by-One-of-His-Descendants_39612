@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5953'
     url: http://www.gutenberg.org/2009/agents/5953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39612#The-Life-of-a-ConspiratorBeing-a-Biography-of-Sir-Everard-Digby-by-One-of-His-Descendants
 gutenberg_issued: '2012-05-04'
 gutenberg_type: Text
 identifiers:
