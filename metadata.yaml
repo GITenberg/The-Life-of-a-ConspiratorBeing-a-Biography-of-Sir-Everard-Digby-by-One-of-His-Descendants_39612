@@ -1,0 +1,33 @@
+_repo: The-Life-of-a-ConspiratorBeing-a-Biography-of-Sir-Everard-Digby-by-One-of-His-Descendants_39612
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39612-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Longueville, Thomas
+    aliases:
+    - De Longueville, Thomas
+    - Longueville, Thomas de
+    birthdate: 1844
+    deathdate: 1922
+    gutenberg_agent_id: '5953'
+    url: http://www.gutenberg.org/2009/agents/5953
+description: ''
+gutenberg_issued: '2012-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39612'
+  lccn: '03026653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Digby, Everard, Sir, 1578-1606'
+- !lcsh 'Gunpowder Plot, 1605'
+title: 'The Life of a Conspirator
+
+  Being a Biography of Sir Everard Digby by One of His Descendants'
+url: http://www.gutenberg.org/ebooks/39612
